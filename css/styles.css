@@ -1,0 +1,28 @@
+
+body {
+  background-color: #E7E0BF;
+}
+h1 {
+  font-family:monospace;
+  font-color: #17202A;
+  text-align: center;
+}
+h2 {
+  font-family: monospace;
+  font-weight: bold;
+  text-align: center;
+  font-style: italic;
+}
+p {
+  font-family:monospace;
+  font-style: normal;
+  font-size: 12pt;
+}
+ol {
+  font-family: monospace;
+  font-style: normal;
+  font-size: 12pt;
+}
+ul {
+  line-height: 40px
+}
